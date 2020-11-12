@@ -55,6 +55,9 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core <br>
 **Using dotenv** <br>
 `npm i dotenv --save` <br>
 
+**Express** <br>
+`npm i express` <br>
+
 **Want to install all at once?** <br>
 `npm init` first then enter the next code:
-`npm i mysql2 sequelize dotenv`
+`npm i mysql2 sequelize express dotenv`
