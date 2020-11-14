@@ -61,3 +61,12 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core <br>
 **Want to install all at once?** <br>
 `npm init` first then enter the next code:
 `npm i mysql2 sequelize express dotenv`
+
+### Using the program
+Make sure to follow the instructions below to use the database:
+1. Install NPM first: `npm i`
+2. Start MySQL: `mysql -u root -p` and enter your MySQL password
+3. Create database tables: `source db/schema.sql`
+4. Quit MySQL: `quit`
+5. Seed tables with data: `npm run seed`
+6. Start the program: `npm start`
