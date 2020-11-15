@@ -34,10 +34,10 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core <br>
 ## Challenge Result
 
 ### Application Video Walkthrough
-[Application Walkthrough]()
+[Application Walkthrough](https://youtu.be/bLov3U400FE)
 
 ### GitHub Repository
-[GitHub Repository URL]()
+[GitHub Repository URL](https://github.com/marioessig/E-commerce-Back-End)
 
 ---
 
@@ -70,3 +70,4 @@ Make sure to follow the instructions below to use the database:
 4. Quit MySQL: `quit`
 5. Seed tables with data: `npm run seed`
 6. Start the program: `npm start`
+7. Use Insomnia Core App and "http://localhost:3001/api/------" and have fun playing around with it!
